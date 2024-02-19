@@ -1,4 +1,8 @@
 #principal {
+    box-shadow: 5px 5px 15px rgba(136, 109, 93, 0.616);
+    padding: 10px;
+    margin: auto;
+    border-radius: 10px;
     background-image: linear-gradient(to right, rgb(228, 87, 5), rgb(5, 16, 228));
     color: white;
     text-align: center;
@@ -6,8 +10,58 @@
 }
 
 .titulo {
+    box-shadow: 5px 5px 15px rgba(136, 109, 93, 0.616);
+    padding: 10px;
+    margin: auto;
+    border-radius: 10px;
     font-family: Arial, Helvetica, sans-serif;
     color: white;
     background-color: rgb(228, 87, 5);
 }
 
+.fa-brands {
+    float: right;
+}
+
+.titulo2 {
+    box-shadow: 5px 5px 15px rgba(136, 109, 93, 0.616);
+    padding: 10px;
+    margin: auto;
+    border-radius: 10px;
+    background-color: rgb(5, 16, 228);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.basicobox {
+    box-shadow: 5px 5px 15px rgba(136, 109, 93, 0.616);
+    text-align: justify;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 15px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgb(8, 236, 27);
+}
+
+.intermediariobox {
+    box-shadow: 5px 5px 15px rgba(136, 109, 93, 0.616);
+    text-align: justify;
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 15px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgb(239, 247, 5);
+}
+
+.avancadobox {
+    text-align: justify;
+    box-shadow: 5px 5px 15px rgba(136, 109, 93, 0.616);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 15px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: red;
+}
