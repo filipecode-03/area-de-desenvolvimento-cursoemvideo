@@ -1,0 +1,12 @@
+#principal {
+    background-image: linear-gradient(to right, rgb(228, 87, 5), rgb(5, 16, 228));
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.titulo {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
