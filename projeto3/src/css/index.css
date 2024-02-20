@@ -1,0 +1,61 @@
+.html {
+    display: inline-block;
+    background-color: rgb(145, 149, 153);
+    border-radius: 10px;
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+    margin: auto;
+}
+
+p {
+    font-size: 13px;
+    text-align: center;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 1px;
+    margin-right: 15px;
+    margin-bottom: 1px;
+    margin-left: 15px;
+}
+
+.style {
+    display: inline-block;
+    background-color: rgb(145, 149, 153);
+    border-radius: 10px;
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+}
+
+.js {
+    display: inline-block;
+    background-color: rgb(145, 149, 153);
+    border-radius: 10px;
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+}
+
+.fa-brands {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 50px;
+    font-size: 40px;
+}
+
+.html:hover {
+    background-color: rgb(255, 162, 1);
+    color: white;
+}
+
+.style:hover {
+    background-color: blue;
+    color: white;
+}
+
+.js:hover {
+    background-color: yellow;
+    color: black;
+}

@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(76, 75, 75);
+    text-align: justify;
+}
+
+header {
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+nav {
+    background-color: black;
+    padding: 7px;
+    border-radius: 10px;
+    box-shadow: 5px 3px 7px 1px rgba(0, 0, 0, 0.493);
+}
+
+a {
+    color: white;
+    margin-right: 20px;
+}
+
+main {
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.cabecalho {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 5px 3px 7px 1px rgba(0, 0, 0, 0.493);
+}
+
+footer {
+    color: white;
+    text-align: center;
+    background-color: black;
+    padding: 1px;
+    margin: 0px;
+}
+
+.art {
+    background-color: aqua;
+    color: black;
+    padding: 7px;
+    border-radius: 10px;
+    box-shadow: 5px 3px 7px 1px rgba(0, 0, 0, 0.493);
+}
